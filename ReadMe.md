@@ -23,3 +23,7 @@
 [![](https://visitcount.itsvg.in/api?id=fairuzakhdan&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[instagram]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[github]: https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white
+[mail]: https://img.shields.io/badge/Mail-FF0000?style=for-the-badge&logo=gmail&logoColor=white
