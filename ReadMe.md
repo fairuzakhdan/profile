@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Fairuz Akhdan<br>💻 I am passionate about learning new technologies and exploring the world of software engineering, especially in web development.<br>🌱 Currently, I'm expanding my knowledge in JavaScript, Node.js, MongoDB, React, and other modern technologies.<br>🎯 My goal is to contribute to impactful projects while continuously improving my skills.<br>📚 I believe in lifelong learning and staying updated with the latest industry trends.<br><br>🚀 Interests<br>Web Development<br>Frontend Develpment<br>Backend Architecture<br>API Integration
+# 👋 Hi, I'm Fairuz Akhdan
+💻 I am passionate about learning new technologies and exploring the world of software engineering, especially in web development.<br>🌱 Currently, I'm expanding my knowledge in JavaScript, Node.js, MongoDB, React, and other modern technologies.<br>🎯 My goal is to contribute to impactful projects while continuously improving my skills.<br>📚 I believe in lifelong learning and staying updated with the latest industry trends.<br><br>🚀 Interests<br>Web Development<br>Frontend Develpment<br>Backend Architecture<br>API Integration
 
 
 ## 🌐 Socials:
